@@ -1,0 +1,10 @@
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\bin\Debug\netcoreapp3.1\BugTrackerAlgorithms.deps.json
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\bin\Debug\netcoreapp3.1\BugTrackerAlgorithms.dll
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\bin\Debug\netcoreapp3.1\BugTrackerAlgorithms.pdb
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\obj\Debug\netcoreapp3.1\BugTrackerAlgorithms.csproj.AssemblyReference.cache
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\obj\Debug\netcoreapp3.1\BugTrackerAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\obj\Debug\netcoreapp3.1\BugTrackerAlgorithms.AssemblyInfoInputs.cache
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\obj\Debug\netcoreapp3.1\BugTrackerAlgorithms.AssemblyInfo.cs
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\obj\Debug\netcoreapp3.1\BugTrackerAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\obj\Debug\netcoreapp3.1\BugTrackerAlgorithms.dll
+C:\Users\ricar\Downloads\BugTracker\BugTrackerAlgorithms\obj\Debug\netcoreapp3.1\BugTrackerAlgorithms.pdb
